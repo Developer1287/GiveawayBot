@@ -1,0 +1,6 @@
+{
+  "token": "Bot Token",  
+  "prefix": "!",
+  "everyoneMention": false,
+  "hostedBy": true
+}
