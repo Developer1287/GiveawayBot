@@ -110,5 +110,4 @@ client.giveawaysManager.on('giveawayReactionRemoved', (giveaway, member, reactio
 });
 
 // Login through the client
-keepAlive();
 client.login(config.token);
